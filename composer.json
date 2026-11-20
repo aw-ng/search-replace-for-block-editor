@@ -1,5 +1,5 @@
 {
-	"name": "badasswp/search-replace-for-block-editor",
+	"name": "aw-ng/search-replace-for-block-editor",
 	"description": "Search and Replace text within the Block Editor.",
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
